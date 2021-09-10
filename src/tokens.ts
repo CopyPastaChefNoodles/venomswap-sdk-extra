@@ -1,6 +1,6 @@
-import DEFAULT_TOKEN_LIST from '@venomswap/default-token-list'
-import COMMUNITY_TOKEN_LIST from '@venomswap/community-token-list'
-import { ChainId, Token } from '@venomswap/sdk'
+import DEFAULT_TOKEN_LIST from '@copypastachef/default-token-list'
+import COMMUNITY_TOKEN_LIST from '@copypastachef/community-token-list'
+import { ChainId, Token } from '@copypastachef/sdk'
 
 export interface TokenListToken {
   chainId: number

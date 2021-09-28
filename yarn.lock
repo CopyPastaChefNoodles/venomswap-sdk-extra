@@ -927,12 +927,12 @@
   resolved "https://registry.yarnpkg.com/@copypastachef/core/-/core-1.0.0.tgz#b3415196c2618cea1324299999767cc64b6ea386"
   integrity sha512-by4VowCJ6wMZHCMrenyZ3FwQ46YIHviQJrKRG19i40wOi4Q330ZaM5sarOYHTEHkrqOa8HqW0UHDQWZm1YUPNA==
 
-"@copypastachef/default-token-list@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@copypastachef/default-token-list/-/default-token-list-3.0.0.tgz#7cd8666284486d9e61d1da89d64f42986c4174b0"
-  integrity sha512-dQQIT9kpjJraBQFo4WegVNQpDGxPVVIsMVA1lNRnHnKMEKg84QTyf64rJjiGEwEb2YuXmBs2Eb5DRS1G7liY+Q==
+"@copypastachef/default-token-list@^3.0.13":
+  version "3.0.13"
+  resolved "https://registry.yarnpkg.com/@copypastachef/default-token-list/-/default-token-list-3.0.13.tgz#ea3a59a35fda2a0cb72b6f6167e06562188776b2"
+  integrity sha512-HpTASFvGvD7bMg6CXL0vZ4zphigwicqVZG+6/ksWUblyx7Sn5VIAqAY+8vCKrrbhp9pxiah9L/WK8TptlAUoxw==
 
-"@copypastachef/sdk@^1.1.2":
+"@copypastachef/sdk@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@copypastachef/sdk/-/sdk-1.0.5.tgz#fea2e9bdd4808de9953be6d89e1856d9ac6f7183"
   integrity sha512-wYJvt/Yu5fAAAA8eMUlb2zuDeNySoATuYNmY+ArDjzW5+mQiyTqwHfelo/Egv1qj1Wc3BZ39Xatx9c/lo91Ufg==
